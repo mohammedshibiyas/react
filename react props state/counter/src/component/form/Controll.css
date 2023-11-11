@@ -1,0 +1,16 @@
+/* Controlled.css */
+
+.controlled-container {
+    margin: 20px;
+  }
+  
+  .input-field {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .input-value {
+    font-weight: bold;
+    color: green;
+  }
+  
